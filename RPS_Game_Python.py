@@ -1,3 +1,5 @@
+#This game is basically Playable between Computer and The user.
+#The computer Randomly select the options by random Library and the user has to enter his input.
 import random
 
 def gamewin(Computer, You):
